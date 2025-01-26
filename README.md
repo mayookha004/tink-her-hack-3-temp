@@ -1,39 +1,37 @@
-# [Project Name] 🎯
+# [Data blocker 1.0] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Syntax_Squad]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Mayookha JS] - [SNGCE]
+- Member 2: [Leah Sarah biju] - [SNGCE]
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://drive.google.com/file/d/1dDFfg_XnurLEW7-xvv80pMINk5JHlkL]
 
 ### Project Description
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Problem of privacy and security]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[we create a browser extension, give a timer which can be altered upto the users wish,as soon as the timer runs out the tracker will stop collecting unwanted personal data from the user.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Javascript]
+- [HTML]
+  [nil]
+- [APIs were used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [nil]
 
 ### Implementation
 For Software:
@@ -47,53 +45,22 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
+![Screenshot1]tHE CODE IS SHOWN
+![Screenshot2]IMPORTING THE CODE
+![Screenshot3]IMPLEMENTED STATE
+![Screenshot4]RUNNING OF THE PROGRAM
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1dDFfg_XnurLEW7-xvv80pMINk5JHlkL
 
-# Additional Demos
-[Add any extra demo materials/links]
+HOW our prograM WORKS
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+we did it alltogether
 
 ---
 Made with ❤️ at TinkerHub
